@@ -1,1 +1,3 @@
 prompt("Hello");
+
+alert("UUU");
